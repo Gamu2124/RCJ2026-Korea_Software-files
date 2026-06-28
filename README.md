@@ -1,9 +1,5 @@
 # RCJ2026-Korea_Software-files
 
-<p align="center">
-  <img src="images/robot.jpg" width="700">
-</p>
-
 This repository contains software developed for our RoboCup Junior Soccer Open 2026 robot.
 
 ### Overview
